@@ -304,12 +304,25 @@ table tr:nth-child(even) td{
   background-color: rgb(208, 239, 251);
 }
 
+
+.event_photo td {
+  background-color: rgb(106, 248, 170);
+}
+
+.event_invited_talk td {
+  background-color: rgb(241, 165, 94);
+}
+
 .event_poster_flash_round td {
   background-color: rgb(224, 236, 209);
 }
 
 .event_sponsor_technobite td {
-  background-color: rgb(255, 216, 208);
+  background-color: rgb(166, 252, 240);
+}
+
+.event_sponsor_talk td {
+  background-color: rgb(166, 252, 240);
 }
 
 .session_header td {
